@@ -8,7 +8,7 @@ public class Main {
         MyStack<Integer> myStack = new MyStack<>();
 
         myStack.push(10);
-        myStack.push(20);
+        myStack.push(21);
         myStack.push(30);
 
         System.out.println("Elementos en la pila:");
