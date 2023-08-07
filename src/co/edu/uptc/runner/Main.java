@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         MyStack<Integer> myStack = new MyStack<>();
 
-        myStack.push(10);
+        myStack.push(29);
         myStack.push(21);
         myStack.push(30);
 
